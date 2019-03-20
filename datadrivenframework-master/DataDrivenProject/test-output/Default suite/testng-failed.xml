@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="com.qa.datadrivenproject.testcases.NewPageTestCases">
+        <methods>
+          <include name="browserclose"/>
+          <include name="launchurl"/>
+          <include name="pollsTestCases"/>
+        </methods>
+      </class> <!-- com.qa.datadrivenproject.testcases.NewPageTestCases -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

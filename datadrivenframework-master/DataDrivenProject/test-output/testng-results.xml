@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="160375" started-at="2019-03-19T10:19:11Z" finished-at="2019-03-19T10:21:52Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="160375" started-at="2019-03-19T10:19:11Z" finished-at="2019-03-19T10:21:52Z">
+      <class name="com.qa.datadrivenproject.testcases.LoginTestCases1">
+        <test-method status="PASS" signature="launchurl()[pri:0, instance:com.qa.datadrivenproject.testcases.LoginTestCases1@59494225]" name="launchurl" is-config="true" duration-ms="19617" started-at="2019-03-19T18:19:11Z" finished-at="2019-03-19T18:19:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchurl -->
+        <test-method status="PASS" signature="login_Profile()[pri:0, instance:com.qa.datadrivenproject.testcases.LoginTestCases1@59494225]" name="login_Profile" duration-ms="33303" started-at="2019-03-19T18:19:31Z" finished-at="2019-03-19T18:20:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login_Profile -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.qa.datadrivenproject.testcases.LoginTestCases1@59494225]" name="closeBrowser" is-config="true" duration-ms="2321" started-at="2019-03-19T18:20:04Z" finished-at="2019-03-19T18:20:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="launchurl()[pri:0, instance:com.qa.datadrivenproject.testcases.LoginTestCases1@59494225]" name="launchurl" is-config="true" duration-ms="12701" started-at="2019-03-19T18:20:07Z" finished-at="2019-03-19T18:20:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchurl -->
+        <test-method status="PASS" signature="school_Login()[pri:1, instance:com.qa.datadrivenproject.testcases.LoginTestCases1@59494225]" name="school_Login" duration-ms="38577" started-at="2019-03-19T18:20:19Z" finished-at="2019-03-19T18:20:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- school_Login -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.qa.datadrivenproject.testcases.LoginTestCases1@59494225]" name="closeBrowser" is-config="true" duration-ms="161" started-at="2019-03-19T18:20:58Z" finished-at="2019-03-19T18:20:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="launchurl()[pri:0, instance:com.qa.datadrivenproject.testcases.LoginTestCases1@59494225]" name="launchurl" is-config="true" duration-ms="12009" started-at="2019-03-19T18:20:58Z" finished-at="2019-03-19T18:21:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchurl -->
+        <test-method status="PASS" signature="cooperation_Login()[pri:2, instance:com.qa.datadrivenproject.testcases.LoginTestCases1@59494225]" name="cooperation_Login" duration-ms="39592" started-at="2019-03-19T18:21:10Z" finished-at="2019-03-19T18:21:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cooperation_Login -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.qa.datadrivenproject.testcases.LoginTestCases1@59494225]" name="closeBrowser" is-config="true" duration-ms="2073" started-at="2019-03-19T18:21:50Z" finished-at="2019-03-19T18:21:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.qa.datadrivenproject.testcases.LoginTestCases1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
